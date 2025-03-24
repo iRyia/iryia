@@ -1,0 +1,74 @@
+@charset "UTF-8";
+
+.access-content {
+  margin-left: 30px;
+}
+
+.access-content > .server_address {
+  background-color: #4a4a4a;
+  color: #94f5ba;
+  padding-left: 10px;
+  border-radius: 8px;
+}
+
+.access-content > .server_addressBtn {
+  background-color: dodgerblue;
+  color: lightblue;
+  border-radius: 8px;
+  margin-top: 8px;
+  margin-left: 8px;
+  padding-left: 8px;
+  padding-right: 8px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+}
+
+.access-content > .server_address2 {
+  background-color: #4a4a4a;
+  color: #94f5ba;
+  padding-left: 10px;
+  border-radius: 8px;
+}
+
+.access-content > .server_addressBtn2 {
+  background-color: dodgerblue;
+  color: lightblue;
+  border-radius: 8px;
+  margin-top: 8px;
+  margin-left: 8px;
+  padding-left: 8px;
+  padding-right: 8px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+}
+
+.section-title {
+  font-size: 2em;
+  margin-top: 40px;
+  margin-bottom: 10px;
+}
+
+.access-content > h2 {
+  font-size: larger;
+  color: #15921f;
+  margin-top: 20px;
+}
+
+.rules-list li {
+  font-size: 1em;
+  margin-bottom: 6px;
+}
+
+.address {
+  margin-top: 20px
+}
+
+.address > .server_address {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: #34a6e0;
+  border-radius: 6px;
+  color: #b5daed;
+}
