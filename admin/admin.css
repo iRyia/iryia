@@ -1,0 +1,43 @@
+
+
+.admin-page {
+  margin-top: 40px;
+}
+
+.section-title {
+  margin-left: 40px;
+  font-size: xx-large;
+}
+
+.admin-page > .yt_live1 {
+  margin-top: 40px;
+  margin-left: 40px;
+}
+
+.scroll-video {
+  width: 100%;
+  min-height: 200px;
+  height: auto;
+  display: flex;
+  flex-wrap: nowrap;
+  overflow-x: auto;
+  scroll-behavior: smooth;
+}
+
+.scroll-page {
+  margin-left: 40px;
+  flex: 0 0 auto;
+  max-width: 150px;
+  height: 100%;
+  margin-right: 780px;
+}
+
+/*
+.scroll-page {
+  flex-wrap: nowrap;
+  display: flex;
+  width: none;
+  height: 486px;
+  overflow-x: auto;
+  scroll-behavior: smooth;
+}*/
