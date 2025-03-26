@@ -48,9 +48,20 @@
   margin-bottom: 10px;
 }
 
-.access-content > h2 {
-  font-size: larger;
+.access-content > .sub-title {
+  font-size: xx-large;
+  margin-top: 40px;
+}
+
+.access-content > .address1 {
+  font-size: x-large;
   color: #15921f;
+  margin-top: 20px;
+}
+
+.access-content > .address2 {
+  font-size: x-large;
+  color: #dba235;
   margin-top: 20px;
 }
 
